@@ -1,0 +1,100 @@
+
+.nav li{
+    padding: 15px;
+    
+}
+.nav li:last-child{
+    padding: 10px
+}
+.nav .btn2{
+
+    background-color: red;
+    color: white;
+}
+.orta{
+    background-color: #ffc107;
+    min-height: 50rem;
+}
+#header{
+    position: fixed;
+    left: 0;
+    top:0;
+    right:0;
+}
+.left{
+    padding: 200px 0;
+}
+.right{
+    padding: 100px 0;
+}
+.logo{
+    padding: 10px;
+}
+.left h1{
+    color: white;
+}
+.qrup{
+    padding:100px 0;
+}
+.qrup-item{
+    box-shadow: 0px 10px 20px 0px rgba(0, 25, 50, 0.1);
+    padding: 90px 0; 
+}
+.item2{
+    background: #ffc107;
+    color: white;
+}
+.aboutme{
+    position: absolute;
+    width: 573px;
+    overflow: hidden;
+    height: 750px;
+    left: 400px;
+
+
+    
+}
+.sol{
+    width: 850px;
+    height: 800px;
+    background-color: #ed305d;
+}
+.sol h2{
+    color: white;
+    font-size: 100px;
+    padding-top: 100px 0; 
+}
+.basliq h2{
+    padding-top: 50px;
+    text-transform: uppercase;
+}
+.button{
+    background-color: #ed305d;
+    border-radius: 5px;
+    display: inline-block;
+color: white;
+}
+.kvadrat{
+    background-color: #ffc107;
+    width: 180px;
+    height: 40px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 5px;
+    box-shadow: 0 5px 10px 0;
+    top: -30px;    
+}
+.kvadrat span{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 11px;
+    position: relative;
+    margin-right: 15px;
+}
+.kvadrat span i{
+    margin-right:5px;
+}
+.kvadrat a{
+    
+}
